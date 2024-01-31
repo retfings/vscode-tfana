@@ -3,6 +3,7 @@
     "displayName": "tfana",
     "publisher": "liujia",
     "description": "remove duplicate import statements in a Python file ",
+    "repository": "https://github.com/retfings/vscode-tfana",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.85.0"
